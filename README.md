@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：识别质量
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 053 篇 - 百家乐Ai预测分析工具：颜色变化不能代替结果字段确认](https://github.com/TGmszrcsz/baccarat-ai-053) ｜ [下一篇：第 055 篇 - 百家乐Ai预测分析工具：字符混淆怎样影响局号唯一性](https://github.com/TGmszrcsz/baccarat-ai-055)
+
+<!-- article-chain:end -->
+
 面板长时间显示等待识别，用户不知道是正常等待还是读取中断。本篇围绕“等待识别状态需要怎样的超时说明”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
